@@ -1,3 +1,4 @@
+@regression
 Feature: New user registration Task
   Scenario: As a User I want to Submit Register new user and delete it
     Given user in Login page and user enter username

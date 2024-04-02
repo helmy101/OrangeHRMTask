@@ -18,7 +18,6 @@ public class HomePage extends PageBase {
     }
 
     public void assertThatDashboardPageIsDisplayed() {
-
         assertElementIsDisplayed(pageTitle);
     }
 
